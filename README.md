@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/react-video-calling-app.git
+   git clone https://github.com/VikasRana10/ReactwebRTC-app.git
    ```
 
 2. **Install Dependencies**
