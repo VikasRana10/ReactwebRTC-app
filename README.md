@@ -25,9 +25,12 @@ To get started with this project, follow these steps:
 4. **Open the App**
    Open your web browser and navigate to `http://localhost:3000` to use the application.
 
-## 📸 Preview
+## 📸 DEMO
 
-![App Preview](insert_screenshot_url_here)
+
+https://github.com/VikasRana10/ReactwebRTC-app/assets/90509555/f5949c81-3f7b-4591-8d17-e021ba5391ac
+
+
 
 ## 🧐 Features
 
